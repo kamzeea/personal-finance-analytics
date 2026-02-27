@@ -83,7 +83,7 @@ The project followed a **User-Centered Design (UCD)** framework grounded in Huma
 
 **Usability Testing Results**
 
-- **Task Success Rate:** 100%  
+- **Task Success Rate:** 80%  
 - **Ease-of-Use Score:** 4.8 / 5  
 - **Navigation Clarity:** High  
 - **Accessibility Compliance:** WCAG AA  
